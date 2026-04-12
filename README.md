@@ -82,8 +82,8 @@ flowchart LR
 ### 1. clone repository
 
 ```bash
-git clone https://github.com/Pr0xyG33k/datacenter-image-trust.git
-cd datacenter-image-trust
+git clone https://github.com/Pr0xyG33k/datacenter_image_trust.git
+cd datacenter_image_trust
 ```
 
 ### 2. install dependencies
