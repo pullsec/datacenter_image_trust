@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://github.com/Pr0xyG33k/datacenter_image_trust">
+  <img src="https://img.shields.io/badge/status-%20development-blue?style=for-the-badge">
+  </a>
+  <img src="https://img.shields.io/badge/python-3.10%2B-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/tests-passing-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Pr0xyG33k/datacenter_image_trust?style=for-the-badge">
+</p>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
