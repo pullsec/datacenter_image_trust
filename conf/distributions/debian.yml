@@ -1,0 +1,12 @@
+name: debian
+
+defaults:
+  image_type: netinst
+  architecture: amd64
+
+allowed_hosts:
+  - cdimage.debian.org
+
+trust:
+  keyring: trust/debian/keyrings/debian-cd-signing.gpg
+  allowed_signers: trust/debian/fingerprints/allowed_signers.txt

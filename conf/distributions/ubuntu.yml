@@ -1,0 +1,12 @@
+name: ubuntu
+
+defaults:
+  image_type: live-server
+  architecture: amd64
+
+allowed_hosts:
+  - releases.ubuntu.com
+
+trust:
+  keyring: trust/ubuntu/keyrings/ubuntu-archive-keyring.gpg
+  allowed_signers: trust/ubuntu/fingerprints/allowed_signers.txt

@@ -1,0 +1,15 @@
+name: fedora
+
+defaults:
+  image_type: server-dvd
+  architecture: x86_64
+
+allowed_hosts:
+  - ftp.usf.edu
+  - free.nchc.org.tw
+  - ftp.riken.jp
+  - fedoraproject.org
+
+trust:
+  keyring: trust/fedora/keyrings/fedora.gpg
+  allowed_signers: trust/fedora/fingerprints/allowed_signers.txt
