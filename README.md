@@ -100,6 +100,7 @@ PYTHONPATH=src pytest -q
 
 ## usage
 
+> [!NOTE]
 > The tool automatically resolves ISO, downloads required artifacts, and verifies trust chain.
 
 ### basic usage
