@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-%20development-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/type-artifact%20-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/python-3.10%2B-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/tests-passing-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/github/license/Pr0xyG33k/datacenter_image_trust?style=for-the-badge" />
 </p>
