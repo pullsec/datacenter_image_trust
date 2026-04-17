@@ -3,13 +3,13 @@
   <img src="https://img.shields.io/badge/type-artifact%20-critical?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/tests-passing-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/Pr0xyG33k/datacenter_image_trust?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/pullsec/datacenter_image_trust?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Pr0xyG33k/datacenter_image_trust/issues">Report Bug</a>
+  <a href="https://github.com/pullsec/datacenter_image_trust/issues">Report Bug</a>
   ·
-  <a href="https://github.com/Pr0xyG33k/datacenter_image_trust/pulls">Request Feature</a>
+  <a href="https://github.com/pullsec/datacenter_image_trust/pulls">Request Feature</a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
